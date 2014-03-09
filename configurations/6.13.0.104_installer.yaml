@@ -1,0 +1,11 @@
+---
+:ingredients:
+- :type: :installer
+  :installer_type: :msi
+  :source_url: http://download.skype.com/msi/SkypeSetup_6.13.0.104.msi
+  :package_name: Skype™ 6.13
+  :installer_options: /qn /norestart
+  :support_32bit: true
+  :support_64bit: 
+:support_32bit: true
+:support_64bit: 
